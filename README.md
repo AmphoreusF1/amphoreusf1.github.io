@@ -7,8 +7,8 @@ index.html
   <title>Boss’s Web Lair</title>
 </head>
 <body style="font-family: sans-serif; text-align:center; margin-top:50px;">
-  <h1>Hello World 👋</h1>
-  <p>This website was made by Boss, for free. Bow down.</p>
+  <h1>Hello Bitch 👋</h1>
+  <p>This website was made by Boss Faraday, for Amphoreus, Bow down.</p>
 </body>
 </html>
 
